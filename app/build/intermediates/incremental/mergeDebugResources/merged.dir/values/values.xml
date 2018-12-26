@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="STRING_ABOUT">ABOUT</string>
+    <string name="STRING_CONTINUE">CONTINUE</string>
+    <string name="STRING_EXIT">EXIT</string>
+    <string name="STRING_EXIT_COFIRM">DO YOU WANT TO EXIT ???</string>
+    <string name="STRING_HELP">HELP</string>
+    <string name="STRING_HELP1">game with 50 levels. Initial level 1 will be unlocked.\n User must complete a level to unclok the next level\n.</string>
+    <string name="STRING_HELP2">To pass a level you have to protect the eagles\n and destroy all enemy tanks.\n Note that you do not get gunned down\n more than 3 times to a level</string>
+    <string name="STRING_HELP3">Touch Virtual Dpad at Bottom - Left to move tank.  Touch Virtual Dpad Top - Right to fire</string>
+    <string name="STRING_MAINMENU">MAIN MENU</string>
+    <string name="STRING_MAINMENU_CONFIRM">DO YOU WANT BACK TO MAIN MENU ?</string>
+    <string name="STRING_MAP">MAP</string>
+    <string name="STRING_MORE_APP">More Apps</string>
+    <string name="STRING_NO">No</string>
+    <string name="STRING_OPTION">OPTION</string>
+    <string name="STRING_PAUSE">PAUSE</string>
+    <string name="STRING_PLAYGAME">PLAY GAME</string>
+    <string name="STRING_RESUME">RESUME</string>
+    <string name="STRING_YES">Yes</string>
+    <string name="YOUR_APP_ID">55a091b60d602550c2b6072c</string>
+    <string name="YOUR_APP_SIGNATURE">67fd08b3792ce07d98a80f11a0d7a38a88d209f9</string>
+    <string name="app_descrip">This is a template for game creation</string>
+    <string name="app_name">Battles Tank</string>
+    <string name="banner_ads_id">ca-app-pub-2345081211695305/4560853676</string>
+</resources>

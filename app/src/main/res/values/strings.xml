@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">Battles Tank</string>
+    <string name="app_descrip">This is a template for game creation</string>
+    <string name="STRING_MAINMENU">MAIN MENU</string>
+    <string name="STRING_PLAYGAME">PLAY GAME</string>
+    <string name="STRING_CONTINUE">CONTINUE</string>
+    <string name="STRING_OPTION">OPTION</string>
+    <string name="STRING_HELP">HELP</string>
+    <string name="STRING_ABOUT">ABOUT</string>
+    <string name="STRING_EXIT">EXIT</string>
+    <string name="STRING_HELP1">game with 50 levels. Initial level 1 will be unlocked.\n User must complete a level to unclok the next level\n.</string>
+    <string name="STRING_HELP2">To pass a level you have to protect the eagles\n and destroy all enemy tanks.\n Note that you do not get gunned down\n more than 3 times to a level</string>
+    <string name="STRING_HELP3">Touch Virtual Dpad at Bottom - Left to move tank.  Touch Virtual Dpad Top - Right to fire</string>
+    <string name="STRING_EXIT_COFIRM">DO YOU WANT TO EXIT ???</string>
+    <string name="STRING_MAINMENU_CONFIRM">DO YOU WANT BACK TO MAIN MENU ?</string>
+    <string name="STRING_RESUME">RESUME</string>
+    <string name="STRING_MAP">MAP</string>
+    <string name="STRING_YES">Yes</string>
+    <string name="STRING_NO">No</string>
+    <string name="STRING_PAUSE">PAUSE</string>
+    <string name="STRING_MORE_APP">More Apps</string>
+    <string name="YOUR_APP_ID">55a091b60d602550c2b6072c</string>
+    <string name="YOUR_APP_SIGNATURE">67fd08b3792ce07d98a80f11a0d7a38a88d209f9</string>
+
+</resources>

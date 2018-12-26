@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.battle.tanks90"
+        minSdkVersion 15
+        targetSdkVersion 27
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_5
+            targetCompatibility JavaVersion.VERSION_1_5
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation files('libs/bolts-android-1.2.0.jar')
+    implementation files('libs/chartboost.jar')
+    implementation files('libs/Parse-1.9.2.jar')
+    implementation files('libs/ParseCrashReporting-1.9.2.jar')
+    implementation files('libs/ParseFacebookUtilsV4-1.9.2.jar')
+}

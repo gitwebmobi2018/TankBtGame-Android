@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Saved by SpriteEditor v0.0.1-->
+<Sprite Version="0.0.1">
+  <Num_of_modules>3</Num_of_modules>
+  <Num_of_frames>3</Num_of_frames>
+  <Num_of_animations>0</Num_of_animations>
+  <!--- - - - - - - - - - - - - - - - - -->
+  <Image Path="gamebackground.png" />
+  <!--- - - - - - - - - - - - - - - - - -->
+  <!--Type 0 : IMAGE-->
+  <!--Type 1 : RECT-->
+  <!--Type 2 : FILL_RECT-->
+  <!--- - - - - - - - - - - - - - - - - -->
+  <Modules>
+    <Module Index="0" ID="1000" Type="0" Color="FF000000" X="28" Y="0" W="414" H="414" Desc="" />
+    <Module Index="1" ID="1001" Type="0" Color="FF000000" X="449" Y="0" W="414" H="414" Desc="" />
+    <Module Index="2" ID="1002" Type="0" Color="FF000000" X="873" Y="2" W="414" H="414" Desc="" />
+  </Modules>
+  <!--- - - - - - - - - - - - - - - - - -->
+  <!--Flags : FLIP_X | FILP_Y-->
+  <!--- - - - - - - - - - - - - - - - - -->
+  <Frames>
+    <Frame Index="3" ID="2000" NumOfModules="1" Desc="BG_1">
+      <FModule Index="0" Module_ID="1000" OX="0" OY="0" Flags="0" />
+    </Frame>
+    <Frame Index="3" ID="2001" NumOfModules="1" Desc="BG2">
+      <FModule Index="0" Module_ID="1001" OX="0" OY="0" Flags="0" />
+    </Frame>
+    <Frame Index="3" ID="2002" NumOfModules="1" Desc="BG3">
+      <FModule Index="0" Module_ID="1002" OX="0" OY="0" Flags="0" />
+    </Frame>
+  </Frames>
+  <!--- - - - - - - - - - - - - - - - - -->
+</Sprite>

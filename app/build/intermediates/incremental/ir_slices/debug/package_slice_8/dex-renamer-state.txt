@@ -1,0 +1,4 @@
+#Fri Jun 15 03:04:17 CST 2018
+base.0=E\:\\TEMP_WORK_FOLDER\\Mobile\\ReskinTank\\reskined\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27
+path.0=classes.dex
+renamed.0=classes.dex

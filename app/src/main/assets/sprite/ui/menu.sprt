@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Saved by SpriteEditor v0.0.1-->
+<Sprite Version="0.0.1">
+  <Num_of_modules>20</Num_of_modules>
+  <Num_of_frames>20</Num_of_frames>
+  <Num_of_animations>1</Num_of_animations>
+  <!--- - - - - - - - - - - - - - - - - -->
+  <Image Path="menu.png" />
+  <!--- - - - - - - - - - - - - - - - - -->
+  <!--Type 0 : IMAGE-->
+  <!--Type 1 : RECT-->
+  <!--Type 2 : FILL_RECT-->
+  <!--- - - - - - - - - - - - - - - - - -->
+  <Modules>
+    <Module Index="0" ID="1000" Type="0" Color="FF000000" X="46" Y="45" W="162" H="68" Desc="" />
+    <Module Index="1" ID="1005" Type="0" Color="FF000000" X="45" Y="129" W="163" H="63" Desc="" />
+    <Module Index="2" ID="1006" Type="0" Color="FF000000" X="475" Y="67" W="44" H="46" Desc="" />
+    <Module Index="3" ID="1009" Type="0" Color="" X="769" Y="59" W="91" H="90" Desc="" />
+    <Module Index="4" ID="1021" Type="0" Color="" X="774" Y="183" W="95" H="90" Desc="" />
+    <Module Index="5" ID="1010" Type="0" Color="" X="894" Y="56" W="92" H="97" Desc="" />
+    <Module Index="6" ID="1022" Type="0" Color="" X="900" Y="167" W="94" H="85" Desc="" />
+    <Module Index="7" ID="1011" Type="0" Color="FF000000" X="342" Y="320" W="606" H="140" Desc="" />
+    <Module Index="8" ID="1012" Type="0" Color="FF000000" X="18" Y="415" W="175" H="84" Desc="" />
+    <Module Index="9" ID="1014" Type="0" Color="FF000000" X="205" Y="457" W="25" H="27" Desc="" />
+    <Module Index="10" ID="1013" Type="0" Color="FF000000" X="16" Y="520" W="250" H="79" Desc="" />
+    <Module Index="11" ID="1015" Type="0" Color="FF000000" X="15" Y="599" W="261" H="84" Desc="" />
+    <Module Index="12" ID="1016" Type="0" Color="FF000000" X="367" Y="665" W="265" H="257" Desc="" />
+    <Module Index="13" ID="1017" Type="0" Color="FF000000" X="632" Y="567" W="250" H="388" Desc="" />
+    <Module Index="14" ID="1018" Type="0" Color="FF000000" X="882" Y="664" W="157" H="267" Desc="" />
+    <Module Index="15" ID="1019" Type="0" Color="FF000000" X="1053" Y="50" W="93" H="82" Desc="" />
+    <Module Index="16" ID="1020" Type="0" Color="FF000000" X="1057" Y="144" W="94" H="91" Desc="" />
+    <Module Index="17" ID="1023" Type="0" Color="FF000000" X="1066" Y="260" W="71" H="59" Desc="" />
+    <Module Index="18" ID="1024" Type="0" Color="FF000000" X="1076" Y="334" W="66" H="63" Desc="" />
+    <Module Index="19" ID="1001" Type="0" Color="FF000000" X="232" Y="186" W="518" H="70" Desc="" />
+  </Modules>
+  <!--- - - - - - - - - - - - - - - - - -->
+  <!--Flags : FLIP_X | FILP_Y-->
+  <!--- - - - - - - - - - - - - - - - - -->
+  <Frames>
+    <Frame Index="0" ID="2001" NumOfModules="1" Desc="Menu">
+      <FModule Index="0" Module_ID="1000" OX="-85" OY="-30" Flags="0" />
+    </Frame>
+    <Frame Index="1" ID="2000" NumOfModules="1" Desc="Menu_Highlight">
+      <FModule Index="0" Module_ID="1005" OX="-85" OY="-33" Flags="0" />
+    </Frame>
+    <Frame Index="2" ID="2003" NumOfModules="1" Desc="LOCK">
+      <FModule Index="0" Module_ID="1006" OX="-22" OY="-22" Flags="0" />
+    </Frame>
+    <Frame Index="3" ID="2002" NumOfModules="1" Desc="Arrow_LEFT">
+      <FModule Index="0" Module_ID="1009" OX="1" OY="1" Flags="0" />
+    </Frame>
+    <Frame Index="4" ID="2006" NumOfModules="1" Desc="Arrow_LEFT_HIGHTLIGHT">
+      <FModule Index="0" Module_ID="1010" OX="-1" OY="-2" Flags="0" />
+    </Frame>
+    <Frame Index="5" ID="2007" NumOfModules="1" Desc="Arow_Right">
+      <FModule Index="0" Module_ID="1021" OX="0" OY="-1" Flags="0" />
+    </Frame>
+    <Frame Index="6" ID="2008" NumOfModules="1" Desc="Arrow_right_HightLight">
+      <FModule Index="0" Module_ID="1022" OX="0" OY="0" Flags="0" />
+    </Frame>
+    <Frame Index="7" ID="2009" NumOfModules="1" Desc="LAODING 0">
+      <FModule Index="0" Module_ID="1012" OX="-90" OY="-40" Flags="0" />
+    </Frame>
+    <Frame Index="8" ID="2012" NumOfModules="2" Desc="LOADING 1">
+      <FModule Index="0" Module_ID="1012" OX="-90" OY="-40" Flags="0" />
+      <FModule Index="1" Module_ID="1014" OX="86" OY="10" Flags="0" />
+    </Frame>
+    <Frame Index="9" ID="2010" NumOfModules="4" Desc="Loading 2">
+      <FModule Index="0" Module_ID="1012" OX="-90" OY="-40" Flags="0" />
+      <FModule Index="1" Module_ID="1014" OX="86" OY="10" Flags="0" />
+      <FModule Index="2" Module_ID="1014" OX="86" OY="10" Flags="0" />
+      <FModule Index="3" Module_ID="1014" OX="112" OY="10" Flags="0" />
+    </Frame>
+    <Frame Index="10" ID="2011" NumOfModules="5" Desc="loading 3">
+      <FModule Index="0" Module_ID="1012" OX="-90" OY="-40" Flags="0" />
+      <FModule Index="1" Module_ID="1014" OX="86" OY="10" Flags="0" />
+      <FModule Index="2" Module_ID="1014" OX="86" OY="10" Flags="0" />
+      <FModule Index="3" Module_ID="1014" OX="112" OY="10" Flags="0" />
+      <FModule Index="4" Module_ID="1014" OX="140" OY="9" Flags="0" />
+    </Frame>
+    <Frame Index="11" ID="2013" NumOfModules="1" Desc="YOU WIN">
+      <FModule Index="0" Module_ID="1013" OX="-133" OY="-39" Flags="0" />
+    </Frame>
+    <Frame Index="12" ID="2014" NumOfModules="1" Desc="YOU LOSE">
+      <FModule Index="0" Module_ID="1015" OX="-127" OY="-43" Flags="0" />
+    </Frame>
+    <Frame Index="13" ID="2015" NumOfModules="1" Desc="GAME TITLE">
+      <FModule Index="0" Module_ID="1011" OX="-286" OY="3" Flags="0" />
+    </Frame>
+    <Frame Index="14" ID="2016" NumOfModules="3" Desc="TANK">
+      <FModule Index="0" Module_ID="1016" OX="-345" OY="-166" Flags="0" />
+      <FModule Index="1" Module_ID="1017" OX="-80" OY="-262" Flags="0" />
+      <FModule Index="2" Module_ID="1018" OX="170" OY="-164" Flags="0" />
+    </Frame>
+    <Frame Index="15" ID="2019" NumOfModules="2" Desc="SOUND ON">
+      <FModule Index="0" Module_ID="1019" OX="0" OY="0" Flags="0" />
+      <FModule Index="1" Module_ID="1024" OX="14" OY="9" Flags="0" />
+    </Frame>
+    <Frame Index="16" ID="2020" NumOfModules="2" Desc="SOUND ON HIGHT LIGHT">
+      <FModule Index="0" Module_ID="1020" OX="0" OY="0" Flags="0" />
+      <FModule Index="1" Module_ID="1024" OX="13" OY="10" Flags="0" />
+    </Frame>
+    <Frame Index="17" ID="2021" NumOfModules="2" Desc="SOUND OF">
+      <FModule Index="0" Module_ID="1019" OX="0" OY="0" Flags="0" />
+      <FModule Index="1" Module_ID="1023" OX="9" OY="9" Flags="0" />
+    </Frame>
+    <Frame Index="18" ID="2022" NumOfModules="2" Desc="SOUND HIGHT LIGHT">
+      <FModule Index="0" Module_ID="1020" OX="1" OY="-2" Flags="0" />
+      <FModule Index="1" Module_ID="1023" OX="12" OY="14" Flags="0" />
+    </Frame>
+    <Frame Index="19" ID="2004" NumOfModules="1" Desc="GAME TITLE_2">
+      <FModule Index="0" Module_ID="1001" OX="-237" OY="-30" Flags="0" />
+    </Frame>
+  </Frames>
+  <!--- - - - - - - - - - - - - - - - - -->
+  <Animations>
+    <Animation Index="0" ID="3000" NumOfFrames="4" Desc="">
+      <AFrame Index="0" Frame_ID="2009" OX="0" OY="0" Time="2" />
+      <AFrame Index="1" Frame_ID="2012" OX="0" OY="0" Time="2" />
+      <AFrame Index="2" Frame_ID="2010" OX="0" OY="0" Time="2" />
+      <AFrame Index="3" Frame_ID="2011" OX="0" OY="0" Time="2" />
+    </Animation>
+  </Animations>
+</Sprite>
